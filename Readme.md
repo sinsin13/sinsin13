@@ -1,18 +1,166 @@
-# 💫 About Me:
-🔭 I work on backend and blockchain systems<br>🌱 Currently learning advanced backend system designs and rust.<br>⚡ Fun fact I love coffee ;)
+<!-- ============================ HEADER ============================ -->
+<div align="center">
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1e3a8a,100:2563eb&height=200&section=header&text=Aditya%20Singh&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20%26%20Blockchain%20Engineer&descAlignY=58&descSize=18" />
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ad.snh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/adsnh13) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/adsnh13) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adsnh13@gmail.com) 
+<!-- Typing animation -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=800&color=2563EB&center=true&vCenter=true&width=600&lines=Backend+%26+Blockchain+Systems;Learning+Rust+%F0%9F%A6%80;Advanced+System+Design;Fueled+by+Coffee+%E2%98%95" alt="Typing SVG" />
+</a>
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=sinsin13&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=sinsin13&theme=dracula&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=sinsin13&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<br/>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=sinsin13&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<!-- Profile views + follow -->
+<img src="https://komarev.com/ghpvc/?username=sinsin13&label=Profile%20Views&color=0d1117&style=for-the-badge" alt="views" />
+&nbsp;
+<a href="https://github.com/sinsin13">
+  <img src="https://img.shields.io/github/followers/sinsin13?label=Follow&style=for-the-badge&color=1e3a8a&labelColor=0d1117&logo=github&logoColor=58a6ff" alt="follow" />
+</a>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</div>
+
+<!-- ============================ ABOUT ============================ -->
+<div align="center">
+
+## `💫 About Me`
+
+</div>
+
+```rust
+let aditya = Developer {
+    role: "Backend & Blockchain Engineer",
+    currently_learning: ["Advanced Backend System Design", "Rust 🦀"],
+    focus: "Building scalable, distributed systems",
+    fun_fact: "Runs on coffee ☕",
+};
+```
+
+<div align="center">
+
+🔭 &nbsp;I work on **backend and blockchain systems** &nbsp;•&nbsp; 🌱 &nbsp;Currently mastering **advanced system design & Rust** &nbsp;•&nbsp; ⚡ &nbsp;I ❤️ **coffee**
+
+</div>
+
+<!-- ============================ SOCIALS ============================ -->
+<div align="center">
+
+## `🌐 Connect With Me`
+
+<a href="https://linkedin.com/in/adsnh13"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=58a6ff" alt="LinkedIn"/></a>
+<a href="https://x.com/adsnh13"><img src="https://img.shields.io/badge/X%20(Twitter)-0d1117?style=for-the-badge&logo=x&logoColor=58a6ff" alt="X"/></a>
+<a href="https://instagram.com/ad.snh"><img src="https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=58a6ff" alt="Instagram"/></a>
+<a href="mailto:adsnh13@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=58a6ff" alt="Email"/></a>
+
+</div>
+
+<!-- ============================ TECH STACK ============================ -->
+<div align="center">
+
+## `💻 Tech Stack`
+
+### Languages
+<p>
+<img src="https://img.shields.io/badge/Rust-0d1117?style=for-the-badge&logo=rust&logoColor=58a6ff" />
+<img src="https://img.shields.io/badge/Go-0d1117?style=for-the-badge&logo=go&logoColor=58a6ff" />
+<img src="https://img.shields.io/badge/C++-0d1117?style=for-the-badge&logo=cplusplus&logoColor=58a6ff" />
+<img src="https://img.shields.io/badge/Solidity-0d1117?style=for-the-badge&logo=solidity&logoColor=58a6ff" />
+<img src="https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=58a6ff" />
+<img src="https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=58a6ff" />
+</p>
+
+### Backend & APIs
+<p>
+<img src="https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=node.js&logoColor=58a6ff" />
+<img src="https://img.shields.io/badge/Express.js-0d1117?style=for-the-badge&logo=express&logoColor=58a6ff" />
+<img src="https://img.shields.io/badge/FastAPI-0d1117?style=for-the-badge&logo=fastapi&logoColor=58a6ff" />
+<img src="https://img.shields.io/badge/.NET-0d1117?style=for-the-badge&logo=dotnet&logoColor=58a6ff" />
+<img src="https://img.shields.io/badge/GraphQL-0d1117?style=for-the-badge&logo=graphql&logoColor=58a6ff" />
+<img src="https://img.shields.io/badge/Apache%20Kafka-0d1117?style=for-the-badge&logo=apachekafka&logoColor=58a6ff" />
+<img src="https://img.shields.io/badge/Apache%20Spark-0d1117?style=for-the-badge&logo=apachespark&logoColor=58a6ff" />
+<img src="https://img.shields.io/badge/Nginx-0d1117?style=for-the-badge&logo=nginx&logoColor=58a6ff" />
+</p>
+
+### Frontend
+<p>
+<img src="https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=58a6ff" />
+<img src="https://img.shields.io/badge/Next.js-0d1117?style=for-the-badge&logo=nextdotjs&logoColor=58a6ff" />
+<img src="https://img.shields.io/badge/Angular-0d1117?style=for-the-badge&logo=angular&logoColor=58a6ff" />
+<img src="https://img.shields.io/badge/Vite-0d1117?style=for-the-badge&logo=vite&logoColor=58a6ff" />
+<img src="https://img.shields.io/badge/Bootstrap-0d1117?style=for-the-badge&logo=bootstrap&logoColor=58a6ff" />
+<img src="https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=58a6ff" />
+</p>
+
+### Databases
+<p>
+<img src="https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=58a6ff" />
+<img src="https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=58a6ff" />
+<img src="https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb&logoColor=58a6ff" />
+<img src="https://img.shields.io/badge/Supabase-0d1117?style=for-the-badge&logo=supabase&logoColor=58a6ff" />
+</p>
+
+### DevOps & Cloud
+<p>
+<img src="https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=58a6ff" />
+<img src="https://img.shields.io/badge/Kubernetes-0d1117?style=for-the-badge&logo=kubernetes&logoColor=58a6ff" />
+<img src="https://img.shields.io/badge/Azure-0d1117?style=for-the-badge&logo=microsoftazure&logoColor=58a6ff" />
+<img src="https://img.shields.io/badge/Google%20Cloud-0d1117?style=for-the-badge&logo=googlecloud&logoColor=58a6ff" />
+<img src="https://img.shields.io/badge/Render-0d1117?style=for-the-badge&logo=render&logoColor=58a6ff" />
+<img src="https://img.shields.io/badge/Netlify-0d1117?style=for-the-badge&logo=netlify&logoColor=58a6ff" />
+</p>
+
+### Tools & Data
+<p>
+<img src="https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=58a6ff" />
+<img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=58a6ff" />
+<img src="https://img.shields.io/badge/Jira-0d1117?style=for-the-badge&logo=jira&logoColor=58a6ff" />
+<img src="https://img.shields.io/badge/Figma-0d1117?style=for-the-badge&logo=figma&logoColor=58a6ff" />
+<img src="https://img.shields.io/badge/NumPy-0d1117?style=for-the-badge&logo=numpy&logoColor=58a6ff" />
+<img src="https://img.shields.io/badge/Pandas-0d1117?style=for-the-badge&logo=pandas&logoColor=58a6ff" />
+</p>
+
+</div>
+
+<!-- ============================ STATS ============================ -->
+<div align="center">
+
+## `📊 GitHub Stats`
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sinsin13&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=58a6ff&icon_color=2563eb&text_color=c9d1d9&bg_color=0d1117" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sinsin13&layout=compact&langs_count=8&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=sinsin13&hide_border=true&background=0d1117&stroke=1e3a8a&ring=58a6ff&fire=2563eb&currStreakLabel=58a6ff&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=6e7681" />
+
+</div>
+
+<!-- ============================ TROPHIES ============================ -->
+<div align="center">
+
+## `🏆 GitHub Trophies`
+
+<img src="https://github-profile-trophy.vercel.app/?username=sinsin13&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" />
+
+</div>
+
+<!-- ============================ ACTIVITY GRAPH ============================ -->
+<div align="center">
+
+## `📈 Contribution Graph`
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sinsin13&bg_color=0d1117&color=58a6ff&line=2563eb&point=ffffff&area_color=1e3a8a&area=true&hide_border=true" />
+
+## `🔝 Top Contributed Repos`
+
+<img src="https://github-contributor-stats.vercel.app/api?username=sinsin13&limit=5&theme=github_dark&combine_all_yearly_contributions=true" />
+
+</div>
+
+<!-- ============================ FOOTER ============================ -->
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,50:1e3a8a,100:0d1117&height=120&section=footer" />
+
+<i>⭐️ From <a href="https://github.com/sinsin13">Aditya</a> — thanks for stopping by!</i>
+
+</div>

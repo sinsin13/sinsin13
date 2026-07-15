@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m work on backend and blockchain systems<br>🤝 I’m looking for help with<br>🌱 Currently learning advanced backend system designs and rust.<br>⚡ Fun fact I love coffee ;)
+🔭 I work on backend and blockchain systems<br>🌱 Currently learning advanced backend system designs and rust.<br>⚡ Fun fact I love coffee ;)
 
 
 ## 🌐 Socials:

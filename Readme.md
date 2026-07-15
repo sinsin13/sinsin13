@@ -1,7 +1,7 @@
 <!-- ============================ HEADER ============================ -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1e3a8a,100:2563eb&height=200&section=header&text=Aditya%20Singh&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20%26%20Blockchain%20Engineer&descAlignY=58&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1e3a8a,100:2563eb&height=200&section=header&text=Aaditya%20Singh&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20%26%20Blockchain%20Engineer&descAlignY=58&descSize=18" />
 
 <!-- Typing animation -->
 <a href="https://git.io/typing-svg">
@@ -27,7 +27,7 @@
 </div>
 
 ```rust
-let aditya = Developer {
+let aaditya = Developer {
     role: "Backend & Blockchain Engineer",
     currently_learning: ["Advanced Backend System Design", "Rust 🦀"],
     focus: "Building scalable, distributed systems",

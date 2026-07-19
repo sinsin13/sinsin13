@@ -1,7 +1,6 @@
 <!-- ============================ HEADER ============================ -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:2563eb,100:22d3ee&height=200&section=header&text=Aaditya%20Singh&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20%26%20Blockchain%20Engineer&descAlignY=58&descSize=18" />
 
 <!-- Typing animation -->
 <a href="https://git.io/typing-svg">
